@@ -1,0 +1,7 @@
+.Digit {
+  all: unset;
+  padding: 6%;
+  display: flex;
+  justify-content: center;
+  font-size: 2em;
+}
